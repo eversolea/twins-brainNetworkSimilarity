@@ -26,3 +26,9 @@ Special thanks to Aurina Arnatkeviciute for her help with understanding how the 
 Special thanks to Yusuf Osmanlioglu for his invalueable asssitance guiding this study and teaching me about the domain of computational neuroscience.
 
 This paper is not published in any journal.
+
+# Images
+
+Connectome Heatmaps:
+![https://github.com/eversolea/twins-brainNetworkSimilarity/blob/main/resultsCode/connectomeHeatMaps.png]
+Findings:
