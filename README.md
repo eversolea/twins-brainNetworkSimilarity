@@ -13,8 +13,8 @@ networks are very similar because of their nearly identical genetic origin, whil
 The data processed with this code and subsequently used in the paper is not included in this repository, but can be found here: https://zenodo.org/record/4733297#.YxbHVqHMJPY. The files used in this study were 
 - HCP_HCPMMP1ANDfslatlas20_iFOD2_NOSIFT_standard.mat (for connectome data)
 - twinCovariatesDWI_only_twin.mat (for monozygotic and dizygotic twin matching)
-- 
-The connectome data Matlab file was downgraded to MatLab 7.2 to simply importing using scipy into python script (called loadable2.mat in the code).
+
+The connectome data Matlab file was downgraded to MatLab 7.2 to allow a more simple import using scipy into python. This downgraded matlab file is called loadable2.mat in the code.
 
 This data was based on the Human Connectome Project (HCP) and was processed and prepared by the authors of the paper "Genetic influences on hub connectivity of the human connectome" (https://doi.org/10.1038/s41467-021-24306-2).
 
