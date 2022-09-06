@@ -30,5 +30,5 @@ This paper is not published in any journal.
 # Images
 
 Connectome Heatmaps:
-![https://github.com/eversolea/twins-brainNetworkSimilarity/blob/main/resultsCode/connectomeHeatMaps.png]
+![Connectome Heatmaps](https://github.com/eversolea/twins-brainNetworkSimilarity/blob/main/resultsCode/connectomeHeatMaps.png)
 Findings:
